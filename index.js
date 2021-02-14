@@ -11,3 +11,9 @@ function fizzBuzz(num){
 }
 fizzBuzz(20)
 
+////Time complexity = O(n) linear runtime
+///S = O(1)
+
+////////////
+
+
